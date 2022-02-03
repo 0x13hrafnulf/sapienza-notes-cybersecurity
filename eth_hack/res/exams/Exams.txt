@@ -1,0 +1,41 @@
+********************************
+
+1. Extracting passoword windows
+2. WPA Enterprise attack
+3. shared libraries linux
+4. buffer overflow
+5. XSS with web page that loads images dynamically
+
+********************************
+
+1. Windows defenses- emet, efs ecc.
+2. Citrix
+3. Data Stealing, Capability learks, URL Malware
+4. SUID and basic permissions in UNIX.
+5. SQLi with missing informations
+
+********************************
+
+1. File to be scanned following an APT on a compromised Windows machine. Names of the files to be analyzed, standard locations, tools to analyze them. 
+2. VoIP attacks. It seems to me User enumeration and deauthentication attacks. 
+3. Native app on android. 
+4. Blind SQLi 
+5. CSRF attack with POST, there is a parry and a draw on the slides
+
+********************************
+
+1. Enumeration of the Active directory in Windows with tools
+2. firmware reversing and wireless interface sniffing
+3. ?
+4. CSRF, token and XSS (because they don't work as a countermeasure for tokens if there is a vulnerability XSS type) 
+5. practical buffer overflow exercise (example of code to attack, how you would have performed a buffer overflow attack and how the stack changed)
+
+********************************
+
+1. Enumeration of SNMP
+2. VoIP
+3. XSRF
+4. SQLi
+5. Security measures from Android 3 on
+
+********************************
