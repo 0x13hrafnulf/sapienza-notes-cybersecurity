@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo is maintained by https://gitlab.com/myasnik. The original repo's link: https://gitlab.com/myasnik/sapienza-notes-cybersecurity 
+This repo is the copy of the https://gitlab.com/myasnik/sapienza-notes-cybersecurity which is maintained by my friend and groupmate https://gitlab.com/myasnik. All rights belong to Pietro Mazzini. 
 
 ## Disclaimer
 
